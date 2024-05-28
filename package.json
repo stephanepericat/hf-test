@@ -1,0 +1,15 @@
+{
+  "name": "hf-test",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@huggingface/agents": "^0.0.5",
+    "@huggingface/inference": "^2.7.0",
+    "dotenv": "^16.4.5"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
